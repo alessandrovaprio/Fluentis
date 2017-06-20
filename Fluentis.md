@@ -20,5 +20,9 @@
 
 > Stare attenti a file web.config dopo aggiornamenti
 ---
-> L'ambiente di sviluppo meglio non metterlo nel server di produzione Fluentis
+> L'ambiente di sviluppo meglio non metterlo nel server di produzione Fluentis.
+
 > Basta copiare le cartelle da DEV a produzione.
+
+---
+> Inserire sempre amministratore di dominio quando chiede credenziali.
