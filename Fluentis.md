@@ -17,3 +17,8 @@
 - MVVM (Model–view–viewmodel)
 - Silverlight
 - Microsoft SQL
+
+> Stare attenti a file web.config dopo aggiornamenti
+---
+> L'ambiente di sviluppo meglio non metterlo nel server di produzione Fluentis
+> Basta copiare le cartelle da DEV a produzione.
